@@ -1,0 +1,183 @@
+/*
+ * Add your CSS styles to this file.
+ */
+
+ body {
+    font-family: Roboto; 
+    color: black;
+ }
+
+
+.site-title {
+    background-color: rgb(153, 153,255);
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: white;
+    font-weight: 400;
+
+    padding: 10px;
+ }
+
+.active {
+    padding-bottom: 8px;
+    border-bottom: 3px solid rgb(153, 153,255);
+ }
+
+ nav ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    list-style-type: none;
+    background-color: white;
+    display: flex;
+    
+
+
+ }
+
+ nav li {
+    padding-left: 10px;
+    padding-right: 10px;
+    
+ }
+
+.navbar-search {
+    margin-left: auto;
+    
+ }
+
+.navlink {
+    font-size: 18px;
+ }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+a:hover {
+    color: rgb(153, 153,255);
+}
+
+
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    /*background-color: #ddd;*/
+    color: #C5C5C5; 
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #333;
+    color: white;
+  }
+  
+  
+
+#navbar-search-input {
+    background-color: rgb(232,232,232);
+    font-size: 14pt;
+    width: 175px;
+    height: 25px;
+    border: 12px;
+    
+}
+
+#navbar-search-input:focus {
+    outline: none;
+    background-color: white;
+}
+
+#navbar-search-button {
+    background-color: white;
+    font-size: 15pt;
+    border: none;
+}
+
+#navbar-search-button:hover {
+    color: rgb(153, 153,255);
+}
+
+
+
+.twit-container {
+    margin: 0px;
+    background-color: rgb(232,232,232);
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 400px;
+
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.twit {
+    display: flex;
+    position: relative;
+
+    background-color: white;
+    border-radius: 3px;
+    width: 400px;
+    min-height: 75px;
+    max-height: 100px;
+    margin: 2px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    
+ }
+
+.twit-icon {
+    display: inline-block;
+    
+}
+
+.twit-content {
+    display: inline-block;
+    
+ }
+
+.twit-author {
+    display: inline-block;
+    text-align: right;
+
+    font-weight: 900;
+}
+
+
+#create-twit-button {
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 20pt;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+}
+
+#create-twit-button:hover {
+    background-color: rgb(153, 153,255);
+}
