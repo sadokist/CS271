@@ -181,3 +181,38 @@ a:hover {
 #create-twit-button:hover {
     background-color: rgb(153, 153,255);
 }
+
+
+.name {
+    font-weight: 900;
+
+}
+
+.image {
+    width: 50%;
+    height: 50%;
+
+}
+
+
+.price {
+    display: inline-block;
+    text-align: right;
+
+    font-weight: 900;
+}
+
+.twittemplate {
+    display: center;
+
+
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    min-height: 75px;
+    max-height: 200px;
+    margin: 2px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    
+ }
