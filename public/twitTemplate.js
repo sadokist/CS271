@@ -8,10 +8,14 @@ templates['twit'] = template({"compiler":[8,">= 4.3.0"],"main":function(containe
         return undefined
     };
 
-  return " <article class=\"twit\">\n    <div class=\"twit-icon\">\n      <i class=\"fa fa-bullhorn\"></i>\n    </div>\n   <div class=\"twit-content\">\n     <p class=\"twit-text\">\n       "
-    + alias4(((helper = (helper = lookupProperty(helpers,"text") || (depth0 != null ? lookupProperty(depth0,"text") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"text","hash":{},"data":data,"loc":{"start":{"line":7,"column":7},"end":{"line":7,"column":15}}}) : helper)))
-    + "\n      </p>\n      <p class=\"twit-author\">\n       <a href=\"#\">"
-    + alias4(((helper = (helper = lookupProperty(helpers,"author") || (depth0 != null ? lookupProperty(depth0,"author") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"author","hash":{},"data":data,"loc":{"start":{"line":10,"column":19},"end":{"line":10,"column":29}}}) : helper)))
-    + "</a>\n      </p>\n   </div>\n  </article>";
+  return " <article class=\"twit\">\n    <div class=\"twit-icon\">\n      \n    </div>\n   <div class=\"twit-content\">\n     \n     <p class=\"twit-text\">\n       "
+    + alias4(((helper = (helper = lookupProperty(helpers,"Skin_name") || (depth0 != null ? lookupProperty(depth0,"Skin_name") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Skin_name","hash":{},"data":data,"loc":{"start":{"line":8,"column":7},"end":{"line":8,"column":20}}}) : helper)))
+    + " \n      </p>\n\n      <div class=\"twit-weapon\"> "
+    + alias4(((helper = (helper = lookupProperty(helpers,"Weapon_type") || (depth0 != null ? lookupProperty(depth0,"Weapon_type") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Weapon_type","hash":{},"data":data,"loc":{"start":{"line":11,"column":32},"end":{"line":11,"column":47}}}) : helper)))
+    + "</div>\n  \n      <img class=\"resize\" src=\""
+    + alias4(((helper = (helper = lookupProperty(helpers,"Image_file") || (depth0 != null ? lookupProperty(depth0,"Image_file") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Image_file","hash":{},"data":data,"loc":{"start":{"line":13,"column":31},"end":{"line":13,"column":45}}}) : helper)))
+    + "\" />\n\n        <p class=\"twit-author\">\n       "
+    + alias4(((helper = (helper = lookupProperty(helpers,"Price") || (depth0 != null ? lookupProperty(depth0,"Price") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Price","hash":{},"data":data,"loc":{"start":{"line":16,"column":7},"end":{"line":16,"column":16}}}) : helper)))
+    + "\n      </p>\n   </div>\n  </article>";
 },"useData":true});
 })();

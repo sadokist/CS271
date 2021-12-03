@@ -1,19 +1,7 @@
-/*
- * Write your routing code in this file.  Make sure to add your name and
- * @oregonstate.edu email address below.
- *
- * Name: Gautam Singh
- * Email: singhga@oregonstate.edu
- */
-
-
-
-
- 
 var path = require('path');
 var express = require('express');
 var exphbs = require("express-handlebars")
-var twitData = require("./twitData.json")
+var twitData = require("./skins.json")
 
 var app = express();
 var port = process.env.PORT || 3400;
@@ -44,8 +32,10 @@ app.get('/:number', function (req, res) {
   if (test) {
     console.log("Twit exists")
     res.status(200).render("twitpage", {
-      text: twitData[num].text,
-      author: twitData[num].author,
+      text: twitData[num].Skin_name,
+      author: twitData[num].Weapon_type,
+      field: twitData[num].Price,
+      url: twitData[num].Image_file,
       multiTwit: false
 
     })
