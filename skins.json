@@ -2,25 +2,272 @@
  {
   "Skin_name": "Leet Museo",
   "Weapon_type": "Covert Rifle",
-  "Price": "$20.66 - $59.80",
+  "Price": "$21.00 - $52.99",
   "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_abstract_light_large.c0eca2ab0cee2c60491b9b64358f72ae4398e78a.png"
  },
  {
   "Skin_name": "Legion of Anubis",
   "Weapon_type": "Covert Rifle",
-  "Price": "$9.03 - $26.65",
+  "Price": "$9.90 - $28.21",
   "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_anubis_light_large.77994b9d6a2f3020c0c5aa8c9c7f70357d460bff.png"
  },
  {
-    "Skin_name": "Legion of Anubis",
-    "Weapon_type": "Covert Sniper Rifle",
-    "Price": "$9.03 - $26.65",
-    "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_anubis_light_large.77994b9d6a2f3020c0c5aa8c9c7f70357d460bff.png"
-   },
- {
   "Skin_name": "Asiimov",
   "Weapon_type": "Covert Rifle",
-  "Price": "$19.89 - $143.54",
+  "Price": "$19.81 - $149.23",
   "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_asiimov_light_large.665fc3b83c8046398787a57d2ef7a9d938244820.png"
- }
+ },
+ {
+  "Skin_name": "Neon Rider",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$18.70 - $95.95",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_neon_rider_light_large.9209192b514c4ec98146b4747dec8ce407a977c8.png"
+ },
+ {
+  "Skin_name": "The Empress",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$19.26 - $84.44",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_empress_light_large.f81d0b07dca381635c89f74bcdb6b64a6da6e81c.png"
+ },
+ {
+  "Skin_name": "Bloodsport",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$44.77 - $63.45",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_bloodsport_light_large.40f076f6b92e08acc37860923533aa9768795b2b.png"
+ },
+ {
+  "Skin_name": "Neon Revolution",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$12.95 - $40.88",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_anarchy_light_large.6e98f0c6fcb81aaeca03c56eed68962f50c9ef94.png"
+ },
+ {
+  "Skin_name": "Fuel Injector",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$47.45 - $219.31",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_supercharged_light_large.8a0d53e84b7049366a3e3dbb25d29f473d76dceb.png"
+ },
+ {
+  "Skin_name": "Aquamarine Revenge",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$13.19 - $63.13",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_courage_alt_light_large.27e4e7d38dc2ce36ffe86bd6ec65d6f525751eaa.png"
+ },
+ {
+  "Skin_name": "Wasteland Rebel",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$20.35 - $166.21",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_tribute_ak47_light_large.f0ccfeea8a432a82cf4fb7f0411a724dbb43459a.png"
+ },
+ {
+  "Skin_name": "Jaguar",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$15.59 - $90.07",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_panther_ak47_light_large.6b7c82083b5fbb71631ad7961ac1543d1fc2a5cd.png"
+ },
+ {
+  "Skin_name": "Vulcan",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$39.00 - $373.91",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_rubber_light_large.5836c38d3037a5a1f90ffdc8c9d0b94367ca8efd.png"
+ },
+ {
+    "Skin_name": "Wild Lotus",
+    "Weapon_type": "Covert Rifle",
+    "Price": "$1,686.99 - $4,299.99",
+    "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_island_floral_light_large.1303e76d0a77ab164a46a7aba5ab1dcaf1acee6b.png"
+   },
+ {
+  "Skin_name": "Fire Serpent",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$449.69 - $2,695.00",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_fireserpent_ak47_bravo_light_large.9390e7fd091ea8a0434fd2143e0acf0d5d1bbc97.png"
+ },
+ {
+  "Skin_name": "Phantom Disruptor",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$5.37 - $11.90",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak-47_phantom_disruptor_light_large.c14fcebe17a4c1a509edc597b33dcb9b5dcda32b.png"
+ },
+ {
+  "Skin_name": "Point Disarray",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$9.77 - $29.46",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_point_disarray_light_large.ba0f6ccdcb917aa2bde2ef0312c57d763a61d341.png"
+ },
+ {
+  "Skin_name": "Frontside Misty",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$9.16 - $40.63",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_winter_sport_light_large.785a08aecd996dcffc6f38373fdc73697e601a6a.png"
+ },
+ {
+  "Skin_name": "Cartel",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$4.95 - $11.33",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_aq_ak47_cartel_light_large.2e7be9f4c7bda304f2a7c374260d95affca93f0b.png"
+ },
+ {
+  "Skin_name": "Redline",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$7.29 - $57.64",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_cobra_light_large.7494bfdf4855fd4e6a2dbd983ed0a243c80ef830.png"
+ },
+ {
+  "Skin_name": "Case Hardened",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$80.05 - $179.02",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_aq_oiled_light_large.92c8d125e4e54758d37e946496030e9a18833b58.png"
+ },
+ {
+  "Skin_name": "Red Laminate",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$22.34 - $414.32",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_light_large.199620e808579639264cf753d0650721b4bc1f37.png"
+ },
+ {
+  "Skin_name": "Panthera onca",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$120.00 - $341.48",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_jaguar_light_large.92dd85d59d2615eab90bf86d7e4df6ee9e095132.png"
+ },
+
+ {
+  "Skin_name": "Jet Set",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$104.46 - $456.05",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_well_traveled_ak47_light_large.708a53ac473d7cd02037876a82b6b4c004bf9a31.png"
+ },
+ {
+  "Skin_name": "Slate",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$4.60 - $17.32",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_professional_light_large.d09d623d0a725c63e8a3905f66bba41ba2ed59e8.png"
+ },
+ {
+  "Skin_name": "Rat Rod",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$2.94 - $8.10",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_nibbler_light_large.1c402d395b628aa5667239eec44640d7f603d754.png"
+ },
+ {
+  "Skin_name": "Orbit Mk01",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$7.98 - $11.70",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak_colony01_red_light_large.b688da7615b6e76fa34f775e200914dc44d5336c.png"
+ },
+ {
+  "Skin_name": "Blue Laminate",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$5.80 - $8.53",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_blue_light_large.9f8ec5103efa5b7a0b3919a13b4de78e1bd612a0.png"
+ },
+ {
+  "Skin_name": "Safety Net",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$4.60 - $9.85",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_mesh_safetyorange_light_large.f4ee68bc3bbd972ded65ec36b66259199b7fafb7.png"
+ },
+ {
+  "Skin_name": "First Class",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$30.32 - $74.17",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_green_leather_ak47_light_large.9622f0d289d98aa50238c0c956631b73bc3171ed.png"
+ },
+ {
+  "Skin_name": "Emerald Pinstripe",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$5.12 - $14.44",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_pinstripe_ak47_light_large.2123421a26fbe673eea7c0238c7441a83b97aa17.png"
+ },
+ {
+  "Skin_name": "Uncharted",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$0.36 - $1.33",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_aztec_light_large.368d90ba7bc01aa56489792a8962df5343238c5c.png"
+ },
+ {
+  "Skin_name": "Elite Build",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$0.88 - $4.88",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_mastery_light_large.4305c0ba4b02ce531fc08c275fa6a9d87da2cf7e.png"
+ },
+ {
+  "Skin_name": "Green Laminate",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$7.49 - $14.84",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_green_light_large.ecbaf85e35ca08156cc305017d4dc4276a742a8f.png"
+ },
+ {
+  "Skin_name": "Black Laminate",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$15.89 - $192.32",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_bw_light_large.c504cab278a4955e92255ee2022340be2d0982a4.png"
+ },
+ {
+  "Skin_name": "Baroque Purple",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$2.35 - $8.88",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_veneto_purple_light_large.4d9f7f4ed3034ce7d712c68640eb33f9f66f5daf.png"
+ },
+ {
+  "Skin_name": "Safari Mesh",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$0.16 - $3.69",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_sp_mesh_tan_light_large.0372a5d37f473b9cf5e2ee32d2f5d36247f24a3a.png"
+ },
+ {
+  "Skin_name": "Jungle Spray",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$3.02 - $62.37",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_sp_spray_jungle_light_large.af524ea61be29ab81dfb321277b98a211338de37.png"
+ },
+ {
+  "Skin_name": "Predator",
+  "Weapon_type": "Covert Rifle",
+  "Price": "$10.42 - $29.90",
+  "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_sp_zebracam_light_large.5f15c9e41b9ac135b87cdadb407c9872e31c1f29.png"
+ },
+ {
+    "Skin_name": "Wildfire",
+    "Weapon_type": "Covert Sniper Rifle",
+    "Price": "$26.52 - $108.62",
+    "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_wildfire_light_large.61e36b12eb45a39836cdb5badb5a536737684861.png"
+   },
+   {
+    "Skin_name": "Dragon Lore",
+    "Weapon_type": "Covert Sniper Rifle",
+    "Price": "$2,700.00 - $3,890.00",
+    "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_medieval_dragon_awp_light_large.cb3b8168e59e96fd33efa9578206a2aaed036fc0.png"
+   },
+   {
+    "Skin_name": "Asiimov",
+    "Weapon_type": "Covert Sniper Rifle",
+    "Price": "$54.82 - $91.16",
+    "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_asimov_light_large.32d9045f8a2bcd13ca18390cc9fd82026e7195ab.png"
+   },
+   {
+    "Skin_name": "Lightning Strike",
+    "Weapon_type": "Covert Sniper Rifle",
+    "Price": "$334.74 - $430.57",
+    "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_lightning_awp_light_large.3761894103ee0fec90af459928635933ba27e36d.png"
+   },
+   {
+    "Skin_name": "Desert Hydra",
+    "Weapon_type": "Covert Sniper Rifle",
+    "Price": "$1,153.27 - $1,969.00",
+    "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_hydra_light_large.a69be92dd5f9eef4d88b9c640f3dbf15d8c8f78c.png"
+   },
+   {
+    "Skin_name": "Fade",
+    "Weapon_type": "Covert Sniper Rifle",
+    "Price": "$897.80 - $1,235.63",
+    "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_aa_awp_fade_light_large.4e978e13c3396c1b1e32e993afb462ccac55d783.png"
+   },
+ {
+    "Skin_name": "Containment Breach",
+    "Weapon_type": "Covert Sniper Rifle",
+    "Price": "$29.84 - $197.00",
+    "Image_file": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_virus_light_large.00307f818d425d94cb8e4eeda1e27699f713fb45.png"
+   }
 ]

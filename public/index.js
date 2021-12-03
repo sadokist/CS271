@@ -149,7 +149,10 @@ function parser(temp) {
     if (temp[i] == "-") {
         break;
     }
-    c =  c + temp[i];
+    if(temp[i] != ",") {
+      c =  c + temp[i];
+    }
+    
 }
 
 d = parseInt(c);
@@ -203,7 +206,7 @@ function priceFilter() {
 
  }
 
-``
+
 
 
 window.addEventListener('DOMContentLoaded', function () {
